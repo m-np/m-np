@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Mandar 
-#### I'm an ML Engineer
-I’m really interested in AIML Research and Development. I’m currently learning LLM and its development.  
+#### I'm an AI Enthusiast
+I’m interested in AIML Research and Development. I’m currently learning LLM and its development.  
 
-Skills: Python / Pytorch / Tensorflow / GCP / Docker 
+Skills: Python / Pytorch / Tensorflow / GCP / Docker / Kubernetes / Airflow
 
 - 👯 I’m looking to collaborate on AIML research projects 
 
