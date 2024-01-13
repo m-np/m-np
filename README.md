@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mandar4tech
+- 👋 Hi, I’m Mandar
 - 👀 I’m interested in AIML R&D
 - 🌱 I’m currently learning LLM and their development
 - 💞️ I’m looking to collaborate on AIML research projects
