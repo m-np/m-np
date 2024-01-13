@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Mandar
-- 👀 I’m interested in AIML R&D
-- 🌱 I’m currently learning LLM and their development
-- 💞️ I’m looking to collaborate on AIML research projects
-- 📫 You can reach out to me via email - mandar4tech@gmail.com
+### Hi there 👋, my name is Mandar 
+#### I'm an ML Engineer
+I’m interested in AIML Research and Development. I’m currently learning LLM and its development.  
 
-<!---
-mandar4tech/mandar4tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: Python / Pytorch / Tensorflow / GCP / Docker 
+
+- 👯 I’m looking to collaborate on AIML research projects 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mandar-parab-11560974//)  
+
